@@ -5,7 +5,7 @@ This project is aligned to a Model-based software engineering roadmap. From the 
 This cycle consists of 5 phases as listed below.
 __________________________________________
 
-### Phase 1: Requirements Elicitation + Analysis 
+### Phase 1: Requirements Elicitation & Analysis 
 Functional and Nonfunctional Requirements <br />
 Visionary Scenarios <br />
 Functional Model <br />
