@@ -1,7 +1,7 @@
 # Outbreak
 ## Outbreak is a GUI based arcade game programmed in Java
 
-This project is aligned to a Model-based software engineering roadmap. From the Cutomer to the User. The Problem statement to a fully functional software system. <br /> 
+This project is aligned to a Model-based software engineering roadmap. From the Customer to the User. And from the Problem statement to a fully functional software system. <br /> 
 This cycle consists of 5 phases as listed below.
 __________________________________________
 
