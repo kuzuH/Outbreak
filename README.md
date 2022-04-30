@@ -1,7 +1,7 @@
 # Outbreak
 ## Outbreak is a GUI based arcade game programmed in Java
 
-This is a course project of the Technical University of Munich (Module: Introduction to Software Engineering), which is aligned with a Model-based software engineering roadmap. From the Customer to the User. And from the Problem statement to a fully functional software system. <br /> 
+This is a course project of the Technical University of Munich (Module: Introduction to Software Engineering), which is aligned with a Model-based software engineering roadmap. From the Requirements Elicitation & Analysis to Configuration & Project Management. <br />
 This cycle consists of 5 phases as listed below.
 __________________________________________
 
